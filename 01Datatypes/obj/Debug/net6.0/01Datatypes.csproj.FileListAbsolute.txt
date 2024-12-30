@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\01Datatypes\bin\Debug\net6.0\01Datatypes.exe
+C:\240845920024\DotNet\01Datatypes\bin\Debug\net6.0\01Datatypes.deps.json
+C:\240845920024\DotNet\01Datatypes\bin\Debug\net6.0\01Datatypes.runtimeconfig.json
+C:\240845920024\DotNet\01Datatypes\bin\Debug\net6.0\01Datatypes.dll
+C:\240845920024\DotNet\01Datatypes\bin\Debug\net6.0\01Datatypes.pdb
+C:\240845920024\DotNet\01Datatypes\obj\Debug\net6.0\01Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\01Datatypes\obj\Debug\net6.0\01Datatypes.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\01Datatypes\obj\Debug\net6.0\01Datatypes.AssemblyInfo.cs
+C:\240845920024\DotNet\01Datatypes\obj\Debug\net6.0\01Datatypes.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\01Datatypes\obj\Debug\net6.0\01Datatypes.dll
+C:\240845920024\DotNet\01Datatypes\obj\Debug\net6.0\refint\01Datatypes.dll
+C:\240845920024\DotNet\01Datatypes\obj\Debug\net6.0\01Datatypes.pdb
+C:\240845920024\DotNet\01Datatypes\obj\Debug\net6.0\01Datatypes.genruntimeconfig.cache
+C:\240845920024\DotNet\01Datatypes\obj\Debug\net6.0\ref\01Datatypes.dll
