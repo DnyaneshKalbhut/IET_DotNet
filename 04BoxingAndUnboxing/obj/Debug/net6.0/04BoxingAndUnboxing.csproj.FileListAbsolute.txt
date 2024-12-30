@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\04BoxingAndUnboxing\bin\Debug\net6.0\04BoxingAndUnboxing.exe
+C:\240845920024\DotNet\04BoxingAndUnboxing\bin\Debug\net6.0\04BoxingAndUnboxing.deps.json
+C:\240845920024\DotNet\04BoxingAndUnboxing\bin\Debug\net6.0\04BoxingAndUnboxing.runtimeconfig.json
+C:\240845920024\DotNet\04BoxingAndUnboxing\bin\Debug\net6.0\04BoxingAndUnboxing.dll
+C:\240845920024\DotNet\04BoxingAndUnboxing\bin\Debug\net6.0\04BoxingAndUnboxing.pdb
+C:\240845920024\DotNet\04BoxingAndUnboxing\obj\Debug\net6.0\04BoxingAndUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\04BoxingAndUnboxing\obj\Debug\net6.0\04BoxingAndUnboxing.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\04BoxingAndUnboxing\obj\Debug\net6.0\04BoxingAndUnboxing.AssemblyInfo.cs
+C:\240845920024\DotNet\04BoxingAndUnboxing\obj\Debug\net6.0\04BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\04BoxingAndUnboxing\obj\Debug\net6.0\04BoxingAndUnboxing.dll
+C:\240845920024\DotNet\04BoxingAndUnboxing\obj\Debug\net6.0\refint\04BoxingAndUnboxing.dll
+C:\240845920024\DotNet\04BoxingAndUnboxing\obj\Debug\net6.0\04BoxingAndUnboxing.pdb
+C:\240845920024\DotNet\04BoxingAndUnboxing\obj\Debug\net6.0\04BoxingAndUnboxing.genruntimeconfig.cache
+C:\240845920024\DotNet\04BoxingAndUnboxing\obj\Debug\net6.0\ref\04BoxingAndUnboxing.dll

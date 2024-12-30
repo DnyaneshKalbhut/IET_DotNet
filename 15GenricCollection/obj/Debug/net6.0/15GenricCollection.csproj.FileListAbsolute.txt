@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\15GenricCollection\bin\Debug\net6.0\15GenricCollection.exe
+C:\240845920024\DotNet\15GenricCollection\bin\Debug\net6.0\15GenricCollection.deps.json
+C:\240845920024\DotNet\15GenricCollection\bin\Debug\net6.0\15GenricCollection.runtimeconfig.json
+C:\240845920024\DotNet\15GenricCollection\bin\Debug\net6.0\15GenricCollection.dll
+C:\240845920024\DotNet\15GenricCollection\bin\Debug\net6.0\15GenricCollection.pdb
+C:\240845920024\DotNet\15GenricCollection\obj\Debug\net6.0\15GenricCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\15GenricCollection\obj\Debug\net6.0\15GenricCollection.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\15GenricCollection\obj\Debug\net6.0\15GenricCollection.AssemblyInfo.cs
+C:\240845920024\DotNet\15GenricCollection\obj\Debug\net6.0\15GenricCollection.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\15GenricCollection\obj\Debug\net6.0\15GenricCollection.dll
+C:\240845920024\DotNet\15GenricCollection\obj\Debug\net6.0\refint\15GenricCollection.dll
+C:\240845920024\DotNet\15GenricCollection\obj\Debug\net6.0\15GenricCollection.pdb
+C:\240845920024\DotNet\15GenricCollection\obj\Debug\net6.0\15GenricCollection.genruntimeconfig.cache
+C:\240845920024\DotNet\15GenricCollection\obj\Debug\net6.0\ref\15GenricCollection.dll

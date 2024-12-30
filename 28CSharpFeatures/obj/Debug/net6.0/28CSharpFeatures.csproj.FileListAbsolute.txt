@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\28CSharpFeatures\bin\Debug\net6.0\28CSharpFeatures.exe
+C:\240845920024\DotNet\28CSharpFeatures\bin\Debug\net6.0\28CSharpFeatures.deps.json
+C:\240845920024\DotNet\28CSharpFeatures\bin\Debug\net6.0\28CSharpFeatures.runtimeconfig.json
+C:\240845920024\DotNet\28CSharpFeatures\bin\Debug\net6.0\28CSharpFeatures.dll
+C:\240845920024\DotNet\28CSharpFeatures\bin\Debug\net6.0\28CSharpFeatures.pdb
+C:\240845920024\DotNet\28CSharpFeatures\obj\Debug\net6.0\28CSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\28CSharpFeatures\obj\Debug\net6.0\28CSharpFeatures.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\28CSharpFeatures\obj\Debug\net6.0\28CSharpFeatures.AssemblyInfo.cs
+C:\240845920024\DotNet\28CSharpFeatures\obj\Debug\net6.0\28CSharpFeatures.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\28CSharpFeatures\obj\Debug\net6.0\28CSharpFeatures.dll
+C:\240845920024\DotNet\28CSharpFeatures\obj\Debug\net6.0\refint\28CSharpFeatures.dll
+C:\240845920024\DotNet\28CSharpFeatures\obj\Debug\net6.0\28CSharpFeatures.pdb
+C:\240845920024\DotNet\28CSharpFeatures\obj\Debug\net6.0\28CSharpFeatures.genruntimeconfig.cache
+C:\240845920024\DotNet\28CSharpFeatures\obj\Debug\net6.0\ref\28CSharpFeatures.dll

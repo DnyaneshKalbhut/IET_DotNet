@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\05Interace\bin\Debug\net6.0\06Interface.exe
+C:\240845920024\DotNet\05Interace\bin\Debug\net6.0\06Interface.deps.json
+C:\240845920024\DotNet\05Interace\bin\Debug\net6.0\06Interface.runtimeconfig.json
+C:\240845920024\DotNet\05Interace\bin\Debug\net6.0\06Interface.dll
+C:\240845920024\DotNet\05Interace\bin\Debug\net6.0\06Interface.pdb
+C:\240845920024\DotNet\05Interace\obj\Debug\net6.0\06Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\05Interace\obj\Debug\net6.0\06Interface.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\05Interace\obj\Debug\net6.0\06Interface.AssemblyInfo.cs
+C:\240845920024\DotNet\05Interace\obj\Debug\net6.0\06Interface.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\05Interace\obj\Debug\net6.0\06Interface.dll
+C:\240845920024\DotNet\05Interace\obj\Debug\net6.0\refint\06Interface.dll
+C:\240845920024\DotNet\05Interace\obj\Debug\net6.0\06Interface.pdb
+C:\240845920024\DotNet\05Interace\obj\Debug\net6.0\06Interface.genruntimeconfig.cache
+C:\240845920024\DotNet\05Interace\obj\Debug\net6.0\ref\06Interface.dll

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\240845920024\\DotNet\\09Notepad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5295BD-53D7-4C7D-9F82-42D7291F35EC}|09Notepad.csproj|c:\\240845920024\\dotnet\\09notepad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D5295BD-53D7-4C7D-9F82-42D7291F35EC}|09Notepad.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5295BD-53D7-4C7D-9F82-42D7291F35EC}|09Notepad.csproj|c:\\240845920024\\dotnet\\09notepad\\09notepad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D5295BD-53D7-4C7D-9F82-42D7291F35EC}|09Notepad.csproj|solutionrelative:09notepad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\240845920024\\DotNet\\17HostMyLib\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8D77DA-3B17-4FDD-9BD7-02733E2011BE}|..\\15GenricCollection\\15GenricCollection.csproj|c:\\240845920024\\dotnet\\15genriccollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9938ACE8-F3A4-4406-B9E8-E36A9CF6AB30}|..\\14Collections\\14Collections.csproj|c:\\240845920024\\dotnet\\14collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6302FCC8-1014-47F4-9777-50E9FCCEDC9D}|..\\10Properties\\10Properties.csproj|c:\\240845920024\\dotnet\\10properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\240845920024\\DotNet\\17HostMyLib\\17HostMyLib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\240845920024\\DotNet\\16MyLib\\16MyLib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\240845920024\\DotNet\\16MyLib\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "09Notepad",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\09Notepad\\09Notepad.csproj",
+              "RelativeDocumentMoniker": "09Notepad.csproj",
+              "ToolTip": "C:\\240845920024\\DotNet\\09Notepad\\09Notepad.csproj",
+              "RelativeToolTip": "09Notepad.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T12:27:37.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "16MyLib.csproj",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\16MyLib\\16MyLib.csproj",
+              "RelativeDocumentMoniker": "..\\16MyLib\\16MyLib.csproj",
+              "ToolTip": "C:\\240845920024\\DotNet\\16MyLib\\16MyLib.csproj",
+              "RelativeToolTip": "..\\16MyLib\\16MyLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T13:22:53.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\17HostMyLib\\Program.cs",
+              "RelativeDocumentMoniker": "..\\17HostMyLib\\Program.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\17HostMyLib\\Program.cs",
+              "RelativeToolTip": "..\\17HostMyLib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:22:15.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\16MyLib\\Program.cs",
+              "RelativeDocumentMoniker": "..\\16MyLib\\Program.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\16MyLib\\Program.cs",
+              "RelativeToolTip": "..\\16MyLib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:21:19.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\09Notepad\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\09Notepad\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:13:31.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "17HostMyLib.csproj",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\17HostMyLib\\17HostMyLib.csproj",
+              "RelativeDocumentMoniker": "..\\17HostMyLib\\17HostMyLib.csproj",
+              "ToolTip": "C:\\240845920024\\DotNet\\17HostMyLib\\17HostMyLib.csproj",
+              "RelativeToolTip": "..\\17HostMyLib\\17HostMyLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T13:23:36.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\15GenricCollection\\Program.cs",
+              "RelativeDocumentMoniker": "..\\15GenricCollection\\Program.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\15GenricCollection\\Program.cs",
+              "RelativeToolTip": "..\\15GenricCollection\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:57:00.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\14Collections\\Program.cs",
+              "RelativeDocumentMoniker": "..\\14Collections\\Program.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\14Collections\\Program.cs",
+              "RelativeToolTip": "..\\14Collections\\Program.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAADwv8EAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:03:06.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\10Properties\\Program.cs",
+              "RelativeDocumentMoniker": "..\\10Properties\\Program.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\10Properties\\Program.cs",
+              "RelativeToolTip": "..\\10Properties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:22:01.902Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

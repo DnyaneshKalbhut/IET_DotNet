@@ -1,0 +1,38 @@
+﻿@model System.Collections.ArrayList;
+@using  _06Views.Properties.Models;
+
+<h1>Index</h1>
+@* <h3>Emp Details</h3> *@
+
+@* @{ *@
+
+@*     <p>@Model.Id</p> *@
+@*     <p>@Model.Name</p> *@
+@*     <p>@Model.Address</p> *@
+@* } *@
+
+
+@{
+    @foreach (var item in Model) 
+    {
+        @if (item is Emp)
+        {
+            <p>EMP Details </p>
+            var emp = item as Emp;
+            <p>@emp.Id</p>
+            <p>@emp.Name</p>
+            <p>@emp.Address</p>
+
+        }
+        else {
+
+            <p>Customer Details </p>
+            var cust = item as Cust;
+            <p>@cust.Id</p>
+            <p>@cust.Name</p>
+            <p>@cust.Address</p>
+            
+        }
+    }
+
+}

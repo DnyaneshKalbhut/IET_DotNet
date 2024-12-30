@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Id>1</Id>
+    <Name>DK</Name>
+    <Address>Pulgao</Address>
+  </Table1>
+  <Table1>
+    <Id>2</Id>
+    <Name>VG</Name>
+    <Address>Pune</Address>
+  </Table1>
+  <Table1>
+    <Id>3</Id>
+    <Name>DG</Name>
+    <Address>Aliens</Address>
+  </Table1>
+</NewDataSet>

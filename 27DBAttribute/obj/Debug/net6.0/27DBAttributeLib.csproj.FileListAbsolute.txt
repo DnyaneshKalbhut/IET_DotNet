@@ -1,0 +1,11 @@
+C:\240845920024\DotNet\27DBAttribute\bin\Debug\net6.0\27DBAttributeLib.deps.json
+C:\240845920024\DotNet\27DBAttribute\bin\Debug\net6.0\27DBAttributeLib.dll
+C:\240845920024\DotNet\27DBAttribute\bin\Debug\net6.0\27DBAttributeLib.pdb
+C:\240845920024\DotNet\27DBAttribute\obj\Debug\net6.0\27DBAttributeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\27DBAttribute\obj\Debug\net6.0\27DBAttributeLib.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\27DBAttribute\obj\Debug\net6.0\27DBAttributeLib.AssemblyInfo.cs
+C:\240845920024\DotNet\27DBAttribute\obj\Debug\net6.0\27DBAttributeLib.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\27DBAttribute\obj\Debug\net6.0\27DBAttributeLib.dll
+C:\240845920024\DotNet\27DBAttribute\obj\Debug\net6.0\refint\27DBAttributeLib.dll
+C:\240845920024\DotNet\27DBAttribute\obj\Debug\net6.0\27DBAttributeLib.pdb
+C:\240845920024\DotNet\27DBAttribute\obj\Debug\net6.0\ref\27DBAttributeLib.dll

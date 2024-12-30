@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@{
+    var arr = ViewData["WeekDays"] as string[];
+
+    <ol>
+        @foreach(var day in arr){
+            <li>@day</li>
+        }
+    </ol>
+}
+
+<br />
+ <p>@TempData["Message"]</p>
+<br />
+@{
+    var empdata = ViewBag.EmpData;
+    <p>@empdata.Id</p>
+    <p>@empdata.Name</p>
+    <p>@empdata.Address</p>
+}

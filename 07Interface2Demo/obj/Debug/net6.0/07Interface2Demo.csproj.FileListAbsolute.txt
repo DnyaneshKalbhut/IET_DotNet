@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\07Interface2Demo\bin\Debug\net6.0\07Interface2Demo.exe
+C:\240845920024\DotNet\07Interface2Demo\bin\Debug\net6.0\07Interface2Demo.deps.json
+C:\240845920024\DotNet\07Interface2Demo\bin\Debug\net6.0\07Interface2Demo.runtimeconfig.json
+C:\240845920024\DotNet\07Interface2Demo\bin\Debug\net6.0\07Interface2Demo.dll
+C:\240845920024\DotNet\07Interface2Demo\bin\Debug\net6.0\07Interface2Demo.pdb
+C:\240845920024\DotNet\07Interface2Demo\obj\Debug\net6.0\07Interface2Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\07Interface2Demo\obj\Debug\net6.0\07Interface2Demo.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\07Interface2Demo\obj\Debug\net6.0\07Interface2Demo.AssemblyInfo.cs
+C:\240845920024\DotNet\07Interface2Demo\obj\Debug\net6.0\07Interface2Demo.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\07Interface2Demo\obj\Debug\net6.0\07Interface2Demo.dll
+C:\240845920024\DotNet\07Interface2Demo\obj\Debug\net6.0\refint\07Interface2Demo.dll
+C:\240845920024\DotNet\07Interface2Demo\obj\Debug\net6.0\07Interface2Demo.pdb
+C:\240845920024\DotNet\07Interface2Demo\obj\Debug\net6.0\07Interface2Demo.genruntimeconfig.cache
+C:\240845920024\DotNet\07Interface2Demo\obj\Debug\net6.0\ref\07Interface2Demo.dll

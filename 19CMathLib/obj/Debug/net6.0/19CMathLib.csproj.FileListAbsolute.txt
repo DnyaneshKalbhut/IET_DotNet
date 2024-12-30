@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\19CMathLib\bin\Debug\net6.0\19CMathLib.exe
+C:\240845920024\DotNet\19CMathLib\bin\Debug\net6.0\19CMathLib.deps.json
+C:\240845920024\DotNet\19CMathLib\bin\Debug\net6.0\19CMathLib.runtimeconfig.json
+C:\240845920024\DotNet\19CMathLib\bin\Debug\net6.0\19CMathLib.dll
+C:\240845920024\DotNet\19CMathLib\bin\Debug\net6.0\19CMathLib.pdb
+C:\240845920024\DotNet\19CMathLib\obj\Debug\net6.0\19CMathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\19CMathLib\obj\Debug\net6.0\19CMathLib.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\19CMathLib\obj\Debug\net6.0\19CMathLib.AssemblyInfo.cs
+C:\240845920024\DotNet\19CMathLib\obj\Debug\net6.0\19CMathLib.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\19CMathLib\obj\Debug\net6.0\19CMathLib.dll
+C:\240845920024\DotNet\19CMathLib\obj\Debug\net6.0\refint\19CMathLib.dll
+C:\240845920024\DotNet\19CMathLib\obj\Debug\net6.0\19CMathLib.pdb
+C:\240845920024\DotNet\19CMathLib\obj\Debug\net6.0\19CMathLib.genruntimeconfig.cache
+C:\240845920024\DotNet\19CMathLib\obj\Debug\net6.0\ref\19CMathLib.dll

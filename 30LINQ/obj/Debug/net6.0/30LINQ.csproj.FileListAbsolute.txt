@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\30LINQ\bin\Debug\net6.0\30LINQ.exe
+C:\240845920024\DotNet\30LINQ\bin\Debug\net6.0\30LINQ.deps.json
+C:\240845920024\DotNet\30LINQ\bin\Debug\net6.0\30LINQ.runtimeconfig.json
+C:\240845920024\DotNet\30LINQ\bin\Debug\net6.0\30LINQ.dll
+C:\240845920024\DotNet\30LINQ\bin\Debug\net6.0\30LINQ.pdb
+C:\240845920024\DotNet\30LINQ\obj\Debug\net6.0\30LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\30LINQ\obj\Debug\net6.0\30LINQ.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\30LINQ\obj\Debug\net6.0\30LINQ.AssemblyInfo.cs
+C:\240845920024\DotNet\30LINQ\obj\Debug\net6.0\30LINQ.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\30LINQ\obj\Debug\net6.0\30LINQ.dll
+C:\240845920024\DotNet\30LINQ\obj\Debug\net6.0\refint\30LINQ.dll
+C:\240845920024\DotNet\30LINQ\obj\Debug\net6.0\30LINQ.pdb
+C:\240845920024\DotNet\30LINQ\obj\Debug\net6.0\30LINQ.genruntimeconfig.cache
+C:\240845920024\DotNet\30LINQ\obj\Debug\net6.0\ref\30LINQ.dll

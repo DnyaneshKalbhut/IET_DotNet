@@ -1,0 +1,4 @@
+C:\240845920024\DotNet\08AbstractDemo\obj\Release\net6.0\08AbstractDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\08AbstractDemo\obj\Release\net6.0\08AbstractDemo.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\08AbstractDemo\obj\Release\net6.0\08AbstractDemo.AssemblyInfo.cs
+C:\240845920024\DotNet\08AbstractDemo\obj\Release\net6.0\08AbstractDemo.csproj.CoreCompileInputs.cache

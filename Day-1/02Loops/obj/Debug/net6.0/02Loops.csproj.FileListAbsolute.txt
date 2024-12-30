@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\02Loops\bin\Debug\net6.0\02Loops.exe
+C:\240845920024\DotNet\02Loops\bin\Debug\net6.0\02Loops.deps.json
+C:\240845920024\DotNet\02Loops\bin\Debug\net6.0\02Loops.runtimeconfig.json
+C:\240845920024\DotNet\02Loops\bin\Debug\net6.0\02Loops.dll
+C:\240845920024\DotNet\02Loops\bin\Debug\net6.0\02Loops.pdb
+C:\240845920024\DotNet\02Loops\obj\Debug\net6.0\02Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\02Loops\obj\Debug\net6.0\02Loops.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\02Loops\obj\Debug\net6.0\02Loops.AssemblyInfo.cs
+C:\240845920024\DotNet\02Loops\obj\Debug\net6.0\02Loops.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\02Loops\obj\Debug\net6.0\02Loops.dll
+C:\240845920024\DotNet\02Loops\obj\Debug\net6.0\refint\02Loops.dll
+C:\240845920024\DotNet\02Loops\obj\Debug\net6.0\02Loops.pdb
+C:\240845920024\DotNet\02Loops\obj\Debug\net6.0\02Loops.genruntimeconfig.cache
+C:\240845920024\DotNet\02Loops\obj\Debug\net6.0\ref\02Loops.dll

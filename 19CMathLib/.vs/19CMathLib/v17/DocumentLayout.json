@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\240845920024\\DotNet\\19CMathLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACA25E9-108D-4034-9897-6CC905E667EF}|..\\34EntityFramework\\34EntityFramework.csproj|c:\\240845920024\\dotnet\\34entityframework\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACA25E9-108D-4034-9897-6CC905E667EF}|..\\34EntityFramework\\34EntityFramework.csproj|c:\\240845920024\\dotnet\\34entityframework\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ACA25E9-108D-4034-9897-6CC905E667EF}|..\\34EntityFramework\\34EntityFramework.csproj|c:\\240845920024\\dotnet\\34entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A89A33E-F20D-452A-9584-A60E510D216F}|..\\33ConnectedWithDatabase\\33ConnectedWithDatabase.csproj|c:\\240845920024\\dotnet\\33connectedwithdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IETDbContext.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\34EntityFramework\\DAL\\IETDbContext.cs",
+              "RelativeDocumentMoniker": "..\\34EntityFramework\\DAL\\IETDbContext.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\34EntityFramework\\DAL\\IETDbContext.cs",
+              "RelativeToolTip": "..\\34EntityFramework\\DAL\\IETDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:25:47.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\34EntityFramework\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\34EntityFramework\\Model\\Employee.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\34EntityFramework\\Model\\Employee.cs",
+              "RelativeToolTip": "..\\34EntityFramework\\Model\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:20:27.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\34EntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "..\\34EntityFramework\\Program.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\34EntityFramework\\Program.cs",
+              "RelativeToolTip": "..\\34EntityFramework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:19:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\240845920024\\DotNet\\33ConnectedWithDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "..\\33ConnectedWithDatabase\\Program.cs",
+              "ToolTip": "C:\\240845920024\\DotNet\\33ConnectedWithDatabase\\Program.cs",
+              "RelativeToolTip": "..\\33ConnectedWithDatabase\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:59:16.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\240845920024\DotNet\23DemoLib\bin\Debug\net6.0\23DemoLib.deps.json
+C:\240845920024\DotNet\23DemoLib\bin\Debug\net6.0\23DemoLib.dll
+C:\240845920024\DotNet\23DemoLib\bin\Debug\net6.0\23DemoLib.pdb
+C:\240845920024\DotNet\23DemoLib\bin\Debug\net6.0\22CompanyInfoLib.dll
+C:\240845920024\DotNet\23DemoLib\bin\Debug\net6.0\22CompanyInfoLib.pdb
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\23DemoLib.csproj.AssemblyReference.cache
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\23DemoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\23DemoLib.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\23DemoLib.AssemblyInfo.cs
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\23DemoLib.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\23DemoLib.csproj.Up2Date
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\23DemoLib.dll
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\refint\23DemoLib.dll
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\23DemoLib.pdb
+C:\240845920024\DotNet\23DemoLib\obj\Debug\net6.0\ref\23DemoLib.dll

@@ -1,0 +1,14 @@
+C:\240845920024\DotNet\18FileIOSerialization\bin\Debug\net6.0\18FileIOSerialization.exe
+C:\240845920024\DotNet\18FileIOSerialization\bin\Debug\net6.0\18FileIOSerialization.deps.json
+C:\240845920024\DotNet\18FileIOSerialization\bin\Debug\net6.0\18FileIOSerialization.runtimeconfig.json
+C:\240845920024\DotNet\18FileIOSerialization\bin\Debug\net6.0\18FileIOSerialization.dll
+C:\240845920024\DotNet\18FileIOSerialization\bin\Debug\net6.0\18FileIOSerialization.pdb
+C:\240845920024\DotNet\18FileIOSerialization\obj\Debug\net6.0\18FileIOSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\240845920024\DotNet\18FileIOSerialization\obj\Debug\net6.0\18FileIOSerialization.AssemblyInfoInputs.cache
+C:\240845920024\DotNet\18FileIOSerialization\obj\Debug\net6.0\18FileIOSerialization.AssemblyInfo.cs
+C:\240845920024\DotNet\18FileIOSerialization\obj\Debug\net6.0\18FileIOSerialization.csproj.CoreCompileInputs.cache
+C:\240845920024\DotNet\18FileIOSerialization\obj\Debug\net6.0\18FileIOSerialization.dll
+C:\240845920024\DotNet\18FileIOSerialization\obj\Debug\net6.0\refint\18FileIOSerialization.dll
+C:\240845920024\DotNet\18FileIOSerialization\obj\Debug\net6.0\18FileIOSerialization.pdb
+C:\240845920024\DotNet\18FileIOSerialization\obj\Debug\net6.0\18FileIOSerialization.genruntimeconfig.cache
+C:\240845920024\DotNet\18FileIOSerialization\obj\Debug\net6.0\ref\18FileIOSerialization.dll
